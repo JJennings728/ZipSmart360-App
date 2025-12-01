@@ -1,0 +1,96 @@
+# ZIPSmart360™ API Documentation
+Product of EmbeddedIQ Inc. | Parent: StrategicRisk Partners LLC  
+Contact: info@sriskpartners.com | 712-746-7392  
+Address: 5223 63rd Avenue, Eldon, IA 52554
+
+## Overview
+ZIPSmart360™ provides nationwide ZIP-level intelligence—OpportunityScore, GrowthScore,
+StabilityScore, attribute bundles, narrative reports, and bulk state datasets.
+
+All endpoints require:
+X-API-Key: your_api_key
+
+Base URL (Replit or Production):
+https://yourdomain/api/
+
+---
+
+## Endpoints
+
+### 1. GET /v1/score
+Returns intelligence scores + demographic attributes.
+
+Example:
+GET /v1/score?zip=90210
+
+Response:
+{
+  "zip": "90210",
+  "OpportunityScore": 78.1,
+  "GrowthScore": 62.4,
+  "StabilityScore": 89.0,
+  "attributes": { ... }
+}
+
+---
+
+### 2. GET /v1/compare
+Compares 2 ZIP codes.
+
+GET /v1/compare?zip_a=10001&zip_b=90210
+
+Response:
+{
+  "zip_a": "10001",
+  "zip_b": "90210",
+  "OpportunityDiff": 4.3,
+  "GrowthDiff": -3.1,
+  "StabilityDiff": 2.0
+}
+
+---
+
+### 3. GET /v1/report
+Generates underwriting-style narrative.
+
+GET /v1/report?zip=52554
+
+Response:
+{
+  "zip": "52554",
+  "narrative": "ZIP 52554 demonstrates balanced opportunity...",
+  "attributes": { ... },
+  "scores": { ... }
+}
+
+---
+
+### 4. GET /v1/dataset
+Downloads a CSV dataset for a state.
+
+GET /v1/dataset?state=IA
+
+Returns:
+CSV snapshot with 10 synthetic ZIP rows.
+
+---
+
+## Authentication
+Every request must include:
+X-API-Key: your_key
+
+If invalid → 401 Unauthorized.
+
+---
+
+## Rate Limits
+Free: 100/day  
+Pro: 25,000/day  
+Enterprise: custom SLA
+
+---
+
+## Support
+info@sriskpartners.com  
+712-746-7392
+

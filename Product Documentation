@@ -1,7 +1,12 @@
+# Earlier product concept — not the implemented API
+
+This document records proposed ZIPSmart commercial features. It is retained for planning history. The endpoints, scores, API keys, plans, and service levels below are **not implemented or verified by this repository**. The current runnable portfolio project and actual endpoint contract are at https://github.com/JJennings728/ZipSmart360. It uses clearly labeled synthetic data and a local-only server.
+
+---
+
 # ZIPSmart360™ API Documentation
 Product of EmbeddedIQ Inc. | Parent: StrategicRisk Partners LLC  
-Contact: info@sriskpartners.com | 712-746-7392  
-Address: 5223 63rd Avenue, Eldon, IA 52554
+Contact: info@sriskpartners.com  
 
 ## Overview
 ZIPSmart360™ provides nationwide ZIP-level intelligence—OpportunityScore, GrowthScore,
@@ -92,5 +97,3 @@ Enterprise: custom SLA
 
 ## Support
 info@sriskpartners.com  
-712-746-7392
-

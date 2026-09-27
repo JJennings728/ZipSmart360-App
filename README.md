@@ -1,5 +1,7 @@
 # ZIPSmart360-App · Product documentation
 
+**Portfolio context:** This repository is part of James Jennings' [Applied AI, Risk Analytics & Data Engineering portfolio](https://github.com/JJennings728/ZipSmart360/blob/main/PORTFOLIO.md).
+
 This repository contains early ZIPSmart product concepts and documentation. **The working portfolio implementation is now in [ZipSmart360](https://github.com/JJennings728/ZipSmart360).**
 
 ## Run the working demonstration

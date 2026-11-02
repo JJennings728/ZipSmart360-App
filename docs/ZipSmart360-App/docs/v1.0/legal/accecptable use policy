@@ -1,28 +1,13 @@
-# ZIPSmart360™ Acceptable Use Policy
-EmbeddedIQ Inc. | StrategicRisk Partners LLC
-Address: 5223 63rd Avenue, Eldon, IA 52554
+# Acceptable Use Policy — Archived Draft (Withdrawn)
 
-## Prohibited Use
-You may NOT use ZIPSmart360™ for:
-- Illegal activity  
-- Discrimination (FHAct, ECOA, insurance redlining)  
-- Law enforcement targeting  
-- Credit scoring without regulatory controls  
-- Scraping or mass exporting  
-- Reselling data without license  
-- Security attacks, DDoS, key sharing  
+**Status: Withdrawn historical draft — not an operative policy or agreement.**
 
-## Rate Limits
-Free: 100/day  
-Pro: 25,000/day  
-Enterprise: custom  
+This file is retained only to prevent obsolete links from being mistaken for a current customer-facing document. The earlier draft was not verified against the legal identity of the service provider, the actual processing and security practices, deployed product capabilities, or approved commercial terms. Its earlier contents must not be relied upon as a statement of current practice, an offer of services, or a binding customer agreement.
 
-## Enforcement
-Violations may trigger:
-- Suspension  
-- API key revocation  
-- Legal action  
+ZIPSmart360-App is currently presented here as a **historical product-concept and documentation repository**, not as a deployed customer service. The working synthetic demonstration and its documented limits are in [ZIPSmart360](https://github.com/JJennings728/ZipSmart360).
 
-## Contact
-info@sriskpartners.com  
-712-746-7392
+For business inquiries: **info@sriskpartners.com**.
+
+A separately reviewed, accurate customer-facing document must be published before offering a production service or collecting customer information under that document. This notice does not replace any legally required privacy disclosures or contractual documents.
+
+**Historical Git revisions may still contain older material.** This update does not erase commit history or other copies.

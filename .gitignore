@@ -1,2 +1,29 @@
+# Local OS and editor files
 .DS_Store
 Thumbs.db
+.vscode/
+.idea/
+
+# Credentials, private data and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.pfx
+*.key
+*.sqlite
+*.sqlite3
+*.db
+*.log
+*.bak
+secrets/
+private/
+internal-private/
+customer-data/
+client-data/
+
+# Generated content
+build/
+dist/
+__pycache__/

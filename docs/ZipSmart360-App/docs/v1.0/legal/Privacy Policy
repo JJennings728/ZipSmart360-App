@@ -1,48 +1,13 @@
-# ZIPSmart360™ Privacy Policy
-EmbeddedIQ Inc. | StrategicRisk Partners LLC
-Address: 5223 63rd Avenue, Eldon, IA 52554
-Effective: January 2025
+# Privacy Policy — Archived Draft (Withdrawn)
 
-## Summary
-ZIPSmart360™ processes aggregated, ZIP-level data.
-We collect NO personal identifiable consumer data.
+**Status: Withdrawn historical draft — not an operative policy or agreement.**
 
-## Data We Collect
-- Account details (email, business info)
-- Billing records
-- API usage logs
-- IP address + device metadata
-- Authentication events
+This file is retained only to prevent obsolete links from being mistaken for a current customer-facing document. The earlier draft was not verified against the legal identity of the service provider, the actual processing and security practices, deployed product capabilities, or approved commercial terms. Its earlier contents must not be relied upon as a statement of current practice, an offer of services, or a binding customer agreement.
 
-## What We Do NOT Collect
-- Names  
-- SSNs  
-- Consumer-level PII  
-- Individual addresses  
+ZIPSmart360-App is currently presented here as a **historical product-concept and documentation repository**, not as a deployed customer service. The working synthetic demonstration and its documented limits are in [ZIPSmart360](https://github.com/JJennings728/ZipSmart360).
 
-## Use of Collected Data
-- Account management  
-- Billing  
-- API performance  
-- Fraud prevention  
-- Security  
+For business inquiries: **info@sriskpartners.com**.
 
-## Sharing
-We may share operational data with:
-- Cloud/VPS hosts  
-- Payment processors  
-- Law enforcement (required)
+A separately reviewed, accurate customer-facing document must be published before offering a production service or collecting customer information under that document. This notice does not replace any legally required privacy disclosures or contractual documents.
 
-We NEVER sell data.
-
-## Security
-TLS encryption, API key auth, audit logs, rate limiting.
-
-## Your Rights
-You may request:
-- Account deletion  
-- Access to usage logs  
-
-## Contact
-info@sriskpartners.com  
-712-746-7392
+**Historical Git revisions may still contain older material.** This update does not erase commit history or other copies.

@@ -102,6 +102,8 @@ For that reason, this repository explicitly distinguishes between:
 
 **Historical product-concept and documentation repository.**
 
+**Legal-document notice:** Historical privacy, terms-of-service, and acceptable-use drafts under `docs/ZipSmart360-App/docs/v1.0/legal/` have been **withdrawn** because their earlier contractual, data-processing, security, ownership, and service statements were not verified for publication. They are not operative policies or customer agreements. This documentation repository does not offer a live service. The public-facing business contact is **info@sriskpartners.com**. Earlier Git commits may still expose prior material; do not treat current-file redaction as history erasure.
+
 Some materials describe endpoints, service features, or commercial structures that were not implemented as production functionality. For current behavior, use the [ZIPSmart360 README](https://github.com/JJennings728/ZipSmart360).
 
 ## Portfolio context
